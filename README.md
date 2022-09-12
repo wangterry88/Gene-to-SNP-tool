@@ -13,6 +13,9 @@ Step4: Output SNP to Gene to specific directory
 
 ################## Done.######################
 
+S
+
+
 Step1: Input query Gene name (rough)
 
 ![image](https://user-images.githubusercontent.com/49865575/189606827-3e1a7228-ea10-4140-bddb-9ce74f5db8c7.png)
