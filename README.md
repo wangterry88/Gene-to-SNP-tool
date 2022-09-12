@@ -13,7 +13,7 @@ Step4: Output SNP to Gene to specific directory
 
 ################## Done.######################
 
-S
+# Screenshots
 
 
 Step1: Input query Gene name (rough)
